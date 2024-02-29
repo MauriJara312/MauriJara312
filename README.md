@@ -1,7 +1,7 @@
 
 # Alo !
 
- I am Mauri a Fullstack Web developer from Argentina. 
+ I am Mauri a Fullstack Web developer basen on Vilnus, Lithuania. 
 
 ## 🛠  Technologies and tools
 
